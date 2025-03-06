@@ -636,10 +636,10 @@ ul li p span:nth-child(3) {
 
 .title {
     text-align: center;
-    font-size: 32px;
+    font-size: 112px;
     font-weight: bold;
-    margin-top: 20px;
-    font-family: 'Roboto', sans-serif;
+    margin-top: 70px;
+    font-family: 'Bahnschrift SemiBold', sans-serif;
 }
 
 
@@ -905,11 +905,11 @@ hr {
 /*****Radio Button*****/
 
 h1 {
-    text-align: center;
-    padding-bottom: 10px;
-    border-bottom: 2px solid #000000;
-    max-width: 40%;
-    margin: 20px auto;
+    text-align: left;
+    padding-bottom: 1px;
+    border-bottom: 2px solid #94e5eb;
+    max-width: 80%;
+    margin: 30px auto;
 }
 
 /* CONTAINERS */
